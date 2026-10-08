@@ -1,0 +1,2 @@
+1: Celsius to Fahrenheit 2: Fahrenheit to Celsius
+Choice: Enter temperature in Celsius: 0 C converts to 32 F
