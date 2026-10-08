@@ -19,3 +19,5 @@ DEFAULT: DISPLAY "Invalid Choice"
 END SWITCH
 
 END PROGRAM
+
+AI Use: Limited AI use to refer to GitHub commands
